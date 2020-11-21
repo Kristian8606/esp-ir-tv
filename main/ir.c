@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ir/generic.h>
 #include "ir.h"
-
+/*
 
 static ir_generic_config_t protocol = {
     .header_mark = 9000,
@@ -37,3 +37,4 @@ void ir_hdmi_switch_send(ir_hdmi_switch_command_t command) {
     uint8_t buffer[4] = {0x80, 0x7f, command, ~command};
     ir_generic_send(&protocol, buffer, 4);
 }
+*/
