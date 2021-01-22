@@ -1,7 +1,7 @@
 esp-ir-tv
 =========
 
-Example of HomeKit device that controls TV by Insignia.
+Example of HomeKit device that controls TV.
 
 License
 =======
